@@ -2,3 +2,7 @@
 .Rhistory
 .RData
 .Ruserdata
+
+# Large raw files
+/data_raw/title.basics.tsv
+/data_raw/title.ratings.tsv
